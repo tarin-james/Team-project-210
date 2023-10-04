@@ -12,6 +12,10 @@ public class HelloWorld
 {
     public static void Main(string[] args)
     {
+        Entry();
+    }
+    public static List<string> Entry()
+    {
         string ajInput;
 
         List<string> ajEntry = new List<string>();
@@ -46,6 +50,6 @@ public class HelloWorld
             Console.Write($"{value}, ");
         }
 
-        //return ajEntry;
+        return ajEntry;
     }
 }
