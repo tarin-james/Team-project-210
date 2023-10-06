@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\matth\\OneDrive\\Documents\\Earthworm Project 210\\JournalProject\\JournalProject.csproj": {}
+    "C:\\Users\\matth\\OneDrive\\Documents\\Earthworm Project 210\\JournalProject\\JournalProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\matth\\OneDrive\\Documents\\Earthworm Project 210\\JournalProject\\JournalProject.csproj": {
+    "C:\\Users\\matth\\OneDrive\\Documents\\Earthworm Project 210\\JournalProject\\JournalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\matth\\OneDrive\\Documents\\Earthworm Project 210\\JournalProject\\JournalProject.csproj",
+        "projectUniqueName": "C:\\Users\\matth\\OneDrive\\Documents\\Earthworm Project 210\\JournalProject\\JournalProject.csproj",
         "projectName": "JournalProject",
-        "projectPath": "c:\\Users\\matth\\OneDrive\\Documents\\Earthworm Project 210\\JournalProject\\JournalProject.csproj",
+        "projectPath": "C:\\Users\\matth\\OneDrive\\Documents\\Earthworm Project 210\\JournalProject\\JournalProject.csproj",
         "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\matth\\OneDrive\\Documents\\Earthworm Project 210\\JournalProject\\obj\\",
+        "outputPath": "C:\\Users\\matth\\OneDrive\\Documents\\Earthworm Project 210\\JournalProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config"
